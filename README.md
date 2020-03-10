@@ -1,6 +1,7 @@
 # Speech to Text
-1.Can recognize speech of any language and convert it to text and save it in a downloadable Word format with the original language text and then converted text.
-2.Able to convert the spoken text into .mp3 file.Useful for making audio books.
+1. Can recognize speech of any language and convert it to text and save it in a downloadable Word format with the original language text and then converted text.
+2. Able to convert the spoken text into .mp3 file.
+3. Useful for making audio books.
 
 ## Prerequisites
 ```
