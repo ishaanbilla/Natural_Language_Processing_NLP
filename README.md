@@ -4,13 +4,15 @@
 3. Useful for making audio books.
 
 **Natural Language Processing (NLP)**
-- Speech to English Text Translation (Done)
-- Speech to any language text translation (Done)
-- MS Word file translation from one language to any other language (Done)
-- Speech to speech translator from one language to other language (In progress)
-- Sign language to text (In progress)
-- Sign language to speech (In progress)
-- Language translation to answering question (In progress)
+- Translation from Text to Text (any language) - Done
+- Translation from Text to MS Word (any language) - Done
+- Translation from Speech to Text (any language) - Done
+- Translation from Text to Speech (any language) – In pipeline
+- Translation from MS Word to MS Word file (any language) - Done
+- Translation from MS Word to PDF file (any language) – In pipeline
+- Translation from Speech to Speech (any language) – In pipeline
+- Translation from Sign Language to Speech (any language) – In pipeline
+- Translation from Speech to Sign Language (any language) – In pipeline
 
 ## Prerequisites
 ```
